@@ -1,0 +1,22 @@
+{
+    "name": "devdrops/evildead-ipsum",
+    "description": "A lorem ipsum text generator based on Evil Dead movie trilogy.",
+    "keywords": ["loremipsum", "evil dead", "text"],
+    "authors": [
+        {
+            "name": "Davi Marcondes Moreira (@devdrops)",
+            "email": "davi.marcondes.moreira@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "EvilDead": "src/"
+        },
+        "psr-4": {
+            "EvilDead\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "@stable"
+    }
+}

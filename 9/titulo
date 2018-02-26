@@ -1,0 +1,27 @@
+
+
+  8b    d8 88   88 8888b.     db    88""Yb      dP"Yb       dP""b8  dP"Yb  8888b.  88  dP""b8  dP"Yb  
+  88b  d88 88   88  8I  Yb   dPYb   88__dP     dP   Yb     dP   `" dP   Yb  8I  Yb 88 dP   `" dP   Yb 
+  88YbdP88 Y8   8P  8I  dY  dP__Yb  88"Yb      Yb   dP     Yb      Yb   dP  8I  dY 88 Yb  "88 Yb   dP 
+  88 YY 88 `YbodP' 8888Y"  dP""""Yb 88  Yb      YbodP       YboodP  YbodP  8888Y"  88  YboodP  YbodP  
+
+     db    88b 88 888888 888888 .dP"Y8     8888b.  888888     8b    d8 88   88 8888b.     db    88""Yb 
+    dPYb   88Yb88   88   88__   `Ybo."      8I  Yb 88__       88b  d88 88   88  8I  Yb   dPYb   88__dP 
+   dP__Yb  88 Y88   88   88""   o.`Y8b      8I  dY 88""       88YbdP88 Y8   8P  8I  dY  dP__Yb  88"Yb  
+  dP""""Yb 88  Y8   88   888888 8bodP'     8888Y"  888888     88 YY 88 `YbodP' 8888Y"  dP""""Yb 88  Yb 
+
+   dP"Yb  .dP"Y8     888888 888888 .dP"Y8 888888 888888 .dP"Y8 
+  dP   Yb `Ybo."       88   88__   `Ybo."   88   88__   `Ybo." 
+  Yb   dP o.`Y8b       88   88""   o.`Y8b   88   88""   o.`Y8b 
+   YbodP  8bodP'       88   888888 8bodP'   88   888888 8bodP' 
+
+
+## Objetivo
+
+Fazer um health-check nos seus testes, que devem falhar caso houver
+alterações na sua aplicação.
+
+
+
+
+

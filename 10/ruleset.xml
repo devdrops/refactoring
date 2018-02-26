@@ -1,0 +1,8 @@
+<ruleset name="PHPMD Cyclomatic Complexity Analysis">
+    <description>RUles to check the Cyclomatic Complexity of a given PHP structure.</description>
+    <rule ref="rulesets/codesize.xml/CyclomaticComplexity">
+        <properties>
+            <property name="reportLevel" value="5" />
+        </properties>
+    </rule>
+</ruleset>

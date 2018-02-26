@@ -1,0 +1,27 @@
+
+
+  88     888888 88b 88 888888 88 8888b.     db     dP"Yb  
+  88     88__   88Yb88   88   88  8I  Yb   dPYb   dP   Yb 
+  88  .o 88""   88 Y88   88   88  8I  dY  dP__Yb  Yb   dP 
+  88ood8 888888 88  Y8   88   88 8888Y"  dP""""Yb  YbodP  
+
+  88b 88  dP"Yb  .dP"Y8     
+  88Yb88 dP   Yb `Ybo."     
+  88 Y88 Yb   dP o.`Y8b     
+  88  Y8  YbodP  8bodP'     
+
+  888888 888888 .dP"Y8 888888 888888 .dP"Y8 
+    88   88__   `Ybo."   88   88__   `Ybo." 
+    88   88""   o.`Y8b   88   88""   o.`Y8b 
+    88   888888 8bodP'   88   888888 8bodP' 
+
+
+## Objetivo
+
+Identificar a má prática de acesso à bancos de dados e/ou serviços externos
+nos seus testes e substituí-los por mocks e stubs.
+
+
+
+
+

@@ -1,0 +1,21 @@
+{
+    "name": "devdrops/satangoss",
+    "description": "The Mighty Satan Goss!",
+    "require": {
+        "silex/silex": "^2.0",
+        "monolog/monolog": "^1.21",
+        "unreal4u/telegram-api": "~2.0",
+        "abraham/twitteroauth": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Davi Marcondes Moreira",
+            "email": "davi.marcondes.moreira@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SatanGoss\\": "src/"
+        }
+    }
+}
