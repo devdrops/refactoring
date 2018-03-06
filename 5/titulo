@@ -18,8 +18,9 @@
 
 ## Objetivo
 
-Identificar a má prática de acesso à bancos de dados e/ou serviços externos
-nos seus testes e substituí-los por mocks e stubs.
+Identificar a má prática de acesso à bancos de dados 
+e/ou serviços externos nos seus testes e substituí-los 
+por mocks e stubs.
 
 
 
